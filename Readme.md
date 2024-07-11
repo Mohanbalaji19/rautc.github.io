@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://rautc.github.io/Website/
+> https://rautc.github.io/
 
 :star: Star me on GitHub — it helps!
 
